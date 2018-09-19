@@ -8,7 +8,7 @@ public class Controller {
 
 	@GetMapping("/msg")
 	public String method() {
-		return "Welcome user";
+		return "Welcome user, you are in Bridgelabz";
 		
 		
 	}
